@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Esport</string>
+    <string name="tab_text_1">Hier</string>
+    <string name="tab_text_2">Aujourd\'hui</string>
+    <string name="tab_text_3">Demain</string>
+    <string-array name="Type">
+        <item>Joueur</item>
+        <item>Équipe</item>
+        <item>Ligue</item>
+        <item>Series</item>
+        <item>Tournoi</item>
+        <item>Match</item>
+    </string-array>
+</resources>
